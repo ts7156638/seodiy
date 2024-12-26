@@ -2,6 +2,7 @@
 
 免费的 SEO 优化工具可能有各种限制，但你仍然可以用它们来做搜索引擎优化。只需搭配合适的工具来满足你的使用需求。将这 36 种免费的 SEO 工具添加到你的优化工具包中。
 
+![SEO DIY工具](https://github.com/user-attachments/assets/fa6d8808-0ee2-40f9-a588-57143509f4d9)
 
 ## 目录
 1. [Ahrefs Webmaster Tools（Ahrefs 站长工具）](#ahrefs-webmaster-tools)
